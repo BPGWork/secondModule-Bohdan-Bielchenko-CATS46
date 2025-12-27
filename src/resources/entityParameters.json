@@ -1,0 +1,148 @@
+{
+  "entityList": [
+    {
+      "type": "Wolf",
+      "parameters": [
+        "weight:50",
+        "foodWeightNeeded:8",
+        "speed:3",
+        "maxQuantity:30"
+      ]
+    },
+    {
+      "type": "Snake",
+      "parameters": [
+        "weight:15",
+        "foodWeightNeeded:3",
+        "speed:1",
+        "maxQuantity:30"
+      ]
+    },
+    {
+      "type": "Fox",
+      "parameters": [
+        "weight:8",
+        "foodWeightNeeded:2",
+        "speed:2",
+        "maxQuantity:30"
+      ]
+    },
+    {
+      "type": "Bear",
+      "parameters": [
+        "weight:500",
+        "foodWeightNeeded:80",
+        "speed:2",
+        "maxQuantity:5"
+      ]
+    },
+    {
+      "type": "Eagle",
+      "parameters": [
+        "weight:6",
+        "foodWeightNeeded:1",
+        "speed:3",
+        "maxQuantity:20"
+      ]
+    },
+    {
+      "type": "Horse",
+      "parameters": [
+        "weight:400",
+        "foodWeightNeeded:60",
+        "speed:4",
+        "maxQuantity:20"
+      ]
+    },
+    {
+      "type": "Deer",
+      "parameters": [
+        "weight:300",
+        "foodWeightNeeded:50",
+        "speed:4",
+        "maxQuantity:20"
+      ]
+    },
+    {
+      "type": "Rabbit",
+      "parameters": [
+        "weight:2",
+        "foodWeightNeeded:0.45",
+        "speed:2",
+        "maxQuantity:150"
+      ]
+    },
+    {
+      "type": "Mouse",
+      "parameters": [
+        "weight:0.05",
+        "foodWeightNeeded:0.01",
+        "speed:1",
+        "maxQuantity:500"
+      ]
+    },
+    {
+      "type": "Goat",
+      "parameters": [
+        "weight:60",
+        "foodWeightNeeded:10",
+        "speed:3",
+        "maxQuantity:140"
+      ]
+    },
+    {
+      "type": "Sheep",
+      "parameters": [
+        "weight:70",
+        "foodWeightNeeded:15",
+        "speed:3",
+        "maxQuantity:140"
+      ]
+    },
+    {
+      "type": "Boar",
+      "parameters": [
+        "weight:400",
+        "foodWeightNeeded:50",
+        "speed:2",
+        "maxQuantity:50"
+      ]
+    },
+    {
+      "type": "Buffalo",
+      "parameters": [
+        "weight:700",
+        "foodWeightNeeded:100",
+        "speed:3",
+        "maxQuantity:10"
+      ]
+    },
+    {
+      "type": "Duck",
+      "parameters": [
+        "weight:1",
+        "foodWeightNeeded:0.15",
+        "speed:4",
+        "maxQuantity:200"
+      ]
+    },
+    {
+      "type": "Caterpillar",
+      "parameters": [
+        "weight:0.01",
+        "foodWeightNeeded:0",
+        "speed:0",
+        "maxQuantity:1000"
+      ]
+    },
+    {
+      "type": "Plant",
+      "parameters": [
+        "weight:1",
+        "foodWeightNeeded:null",
+        "speed:null",
+        "maxQuantity:200"
+      ]
+    }
+  ]
+}
