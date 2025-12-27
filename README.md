@@ -21,7 +21,7 @@
 - по замовчуванню 10
 - добавете аргумент до масиву args - це ваша кількість тіків
 
-#############################################################################################################################################################################################
+############################################################################################################################################################################################################
 Island Simulation Project
 
 This project represents an Island Simulation with various types of animals and plants.
@@ -69,8 +69,3 @@ Running in IDE (recommended)
 Running the program in an IDE is recommended because some emojis used in the output may not be supported by the OS console.
 Default number of ticks: 10
 To change it, add a value to the args array — this will define the number of simulation ticks
-
-
-rewrite it in a more academic / course-project style
-
-Just tell me 👍
